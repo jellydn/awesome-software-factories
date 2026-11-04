@@ -21,13 +21,15 @@ Projects are listed for their **factory workflows**, not merely their ability to
 
 These are useful for constructing factory workflows, but should not be confused with complete autonomous software factories.
 
-- **Kody (Kent C. Dodds)** — Agent cloud and automation building blocks; evaluate its factory-specific integrations and end-to-end workflow coverage before reclassifying.
+- [Kody](https://kody.codes/) ([source](https://github.com/kentcdodds/kody), [factory map](https://kody.codes/docs/kody-factory)) — Kent C. Dodds' shared cloud for AI agents: durable memory, reusable TypeScript packages, secrets, integrations, and scheduled/webhook-triggered jobs. A foundation for building software factory workflows, **not** an autonomous coding agent itself.
 
 ## Learning resources
 
 Focused articles, talks, and walkthroughs about **end-to-end software factories** (not generic AI coding tutorials).
 
 ### Articles and technical write-ups
+
+- [The Kody factory map](https://kody.codes/docs/kody-factory) — Official guide to Kody's reusable execution, credentials, integrations, and factory primitives.
 
 - [OpenAI: Open-source Codex orchestration — Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/) — Issue-to-implementation orchestration architecture.
 - [Building your own software factory — AIE Talks](https://aietalks.com/talks/building-your-own-software-factory) — Structured code, guardrails, environments, feedback loops, and agent autonomy.
