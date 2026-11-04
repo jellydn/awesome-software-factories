@@ -29,6 +29,9 @@ Focused articles, talks, and walkthroughs about **end-to-end software factories*
 
 ### Articles and technical write-ups
 
+- [Don't vibe code your software factory — Zach Lloyd](https://x.com/zachlloydtweets) — Warp's argument for version-controlled factory definitions, durable execution, run logging, replayable benchmarks, and integrations with existing work tools. **Vendor perspective**; link points to the author's profile until a stable article permalink is confirmed.
+- [Software factory blueprints — Ben Holmes](https://x.com/bholmesdev/status/2118048032336019545) — Typed triage → spec → implement → review pipelines, conditional routing, human-decision gates, and A/B-testable workflows (commentary on Zach Lloyd's article).
+
 - [The Kody factory map](https://kody.codes/docs/kody-factory) — Official guide to Kody's reusable execution, credentials, integrations, and factory primitives.
 
 - [OpenAI: Open-source Codex orchestration — Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/) — Issue-to-implementation orchestration architecture.
