@@ -29,6 +29,8 @@ Focused articles, talks, and walkthroughs about **end-to-end software factories*
 
 ### Articles and technical write-ups
 
+- [7 core components for building a software factory — Ben Holmes (Warp)](https://www.warp.dev/blog/7-ways-to-build-a-software-factory) — Vendor-authored architecture checklist: factories as code, shared history, benchmarks, factory chat, artifacts, computer-use verification, and agent action traces.
+
 - [Don't vibe code your software factory — Zach Lloyd](https://x.com/zachlloydtweets) — Warp's argument for version-controlled factory definitions, durable execution, run logging, replayable benchmarks, and integrations with existing work tools. **Vendor perspective**; link points to the author's profile until a stable article permalink is confirmed.
 - [Software factory blueprints — Ben Holmes](https://x.com/bholmesdev/status/2118048032336019545) — Typed triage → spec → implement → review pipelines, conditional routing, human-decision gates, and A/B-testable workflows (commentary on Zach Lloyd's article).
 
