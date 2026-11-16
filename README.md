@@ -29,6 +29,8 @@ Focused articles, talks, and walkthroughs about **end-to-end software factories*
 
 ### Articles and technical write-ups
 
+- [Running a Software Factory Efficiently at Uber Scale — Uday Kiran Medisetty (Aug 27, 2026)](https://www.uber.com/us/en/blog/efficient-software-factory/) — Engineering case study on agent-driven SDLC adoption, skill execution at scale, and AI cost observability; operational lessons rather than a standalone factory product.
+
 - [7 core components for building a software factory — Ben Holmes (Warp)](https://www.warp.dev/blog/7-ways-to-build-a-software-factory) — Vendor-authored architecture checklist: factories as code, shared history, benchmarks, factory chat, artifacts, computer-use verification, and agent action traces.
 
 - [Don't vibe code your software factory — Zach Lloyd (Nov 4, 2026)](https://www.warp.dev/blog/build-production-software-factory) — Factory-as-code, durable orchestration, recorded artifacts, replayable benchmarks, and integrations with existing work tools. **Vendor perspective**.
